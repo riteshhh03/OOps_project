@@ -1,4 +1,4 @@
-# parent Class
+# Parent Class
 class Vehicle:
     def __init__(self, name, rent):
         self.name = name
