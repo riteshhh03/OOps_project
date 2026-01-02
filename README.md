@@ -6,10 +6,10 @@ The system allows a customer to rent vehicles such as Car and Bike and calculate
 
 OOP Concepts Used :- 
 
-1. Classes & Objects to model vehicles and customers
+1. Classes & Objects to model vehicles and customers.
 
-2. Inheritance to create different vehicle types
+2. Inheritance to create different vehicle types.
 
-3. Polymorphism for different rent calculations
+3. Polymorphism for different rent calculations.
 
-4. Encapsulation to protect vehicle data
+4. Encapsulation to protect vehicle data.
