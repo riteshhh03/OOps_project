@@ -34,7 +34,7 @@ class Customer:
             print("Vehicle not available")
 
 
-# Program
+# Actual Program
 car = Car("Toyota", 2000)
 bike = Bike("Yamaha", 800)
 
